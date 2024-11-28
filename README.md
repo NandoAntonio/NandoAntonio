@@ -3,53 +3,34 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A80B20&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Costa+Antonio;Be+Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/fernando-antonio-16487427b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0E76A8"</a>
-</div> 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernando-antonio-16487427b/)&nbsp;
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NandoAntonio&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=A80B20&text_color=fff&bg_color=0d1117" alt="Fernando da Costa Antonio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoAntonio&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NandoAntonio&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=A80B20&text_color=fff&bg_color=0d1117" alt="Fernando da Costa Antonio github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoAntonio&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NandoAntonio&bg_color=000000&color=fff&line=A80B20&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div align="center">  
+<a href=#" target="_blank"><img height="30px" src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=%23E4405F"</a> <br>
+<a href="https://www.linkedin.com/in/fernando-antonio-16487427b/" target="_blank"><img height="30px" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
+</div> 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div>
+## 🖐️ ABOUT ME
+"I am a 20-year-old developer with the goal of becoming a great professional in the front-end field and creating my own applications. Coding is one of my biggest passions, and I dream of making a living from it."
 
+### 🏫 EDUCATION 
+>**UNIVERSIDADE CRUZEIRO DO SUL VIRTUAL**  
+Bachelor's in Computer Science  
+Expected Graduation Year: 2028  
+
+>**ETEC PROFESSORA LUZIA MARIA MACHADO**  
+Technician Degree in Business Administration  
+Graduation Year: 2023
+
+## 💻 TECHNOLOGIES
+### 🥇 Markup and Stylesheet Languages  
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+### 🥇 Programming Languages  
+![JavaScript](	https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A80B20&height=120&section=footer"/>
