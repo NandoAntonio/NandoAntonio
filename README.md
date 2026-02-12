@@ -19,8 +19,8 @@
 
 ### 🏫 EDUCATION 
 >**UNIVERSIDADE VIRTUAL DO ESTADO DE SÃO PAULO**  
-Bachelor's in Computer Science  
-Expected Graduation Year: 2028  
+Bachelor's in computer engineering  
+Expected Graduation Year: 2029  
 
 >**ETEC PROFESSORA LUZIA MARIA MACHADO**  
 Technician Degree in Business Administration  
