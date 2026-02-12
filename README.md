@@ -18,7 +18,7 @@
 "I am a 20-year-old developer with the goal of becoming a great professional in the front-end field and creating my own applications. Coding is one of my biggest passions, and I dream of making a living from it."
 
 ### 🏫 EDUCATION 
->**UNIVERSIDADE CRUZEIRO DO SUL VIRTUAL**  
+>**UNIVERSIDADE VIRTUAL DO ESTADO DE SÃO PAULO**  
 Bachelor's in Computer Science  
 Expected Graduation Year: 2028  
 
