@@ -1,36 +1,52 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A80B20&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A80B20&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Costa+Antonio;Be+Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg) 
+<h1 align="center">
+NandoAntonio's GitHub
+</h1>
 
-<div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NandoAntonio&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=A80B20&text_color=fff&bg_color=0d1117" alt="Fernando da Costa Antonio github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoAntonio&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+<div align="center"> <!--Div Banner Principal-->
+  <img src=".github/assets/Banner.png" alt="Dev's Banner" width="800em">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NandoAntonio&bg_color=000000&color=fff&line=A80B20&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">
+  Future Computer Engineer • Data Analyst
+</h2>
 
-<div align="center">  
-<a href=#" target="_blank"><img height="30px" src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=%23E4405F"</a> <br>
-<a href="https://www.linkedin.com/in/fernando-antonio-16487427b/" target="_blank"><img height="30px" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
-</div> 
+<div align="center">
+  <a href="https://github.com/NandoAntonio"> <img src="https://streak-stats.demolab.com/?user=NandoAntonio&theme=dark" alt="GitHub Streak"/></a>
+</div>
 
-## 🖐️ ABOUT ME
-"I am a 20-year-old developer with the goal of becoming a great professional in the front-end field and creating my own applications. Coding is one of my biggest passions, and I dream of making a living from it."
+--------------------------------------------
 
-### 🏫 EDUCATION 
->**UNIVERSIDADE VIRTUAL DO ESTADO DE SÃO PAULO**  
-Bachelor's in computer engineering  
-Expected Graduation Year: 2029  
+<div> <!--Div Sobre mim-->
 
->**ETEC PROFESSORA LUZIA MARIA MACHADO**  
-Technician Degree in Business Administration  
+## 🙋🏻 ABOUT ME:
+
+- 👋 Hello! My name is Fernando, and I am a Computer Engineering student at the Virtual University of São Paulo <br>
+- 🚀 My main goal is to become a FullStack developer and data analyst <br>
+- ✨ I always try to be a polite and respectful person, and I love interacting with new people and sharing my story
+
+--------------------------------------------
+
+## 💻 TECHNOLOGIES:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,git,github" alt="Dev-icons">
+
+--------------------------------------------
+
+### 🏫 EDUCATION:
+> **UNIVERSIDADE ESTADUAL DO ESTADO DE SÃO PAULO** <br>
+Bachelor's in Computer Engineering <br>
+Expected Graduation Year: 2030
+
+> **ETEC PROFESSORA LUZIA MARIA MACHADO** <br>
+Technician Degree in Business Administration <br>
 Graduation Year: 2023
 
-## 💻 TECHNOLOGIES
-### 🥇 Markup and Stylesheet Languages  
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=264CE4)
+> **ETEC PROFESSORA LUZIA MARIA MACHADO** <br>
+Technician Degree in Business Human Resources <br>
+Graduation Year: 2021
 
-### 🥇 Programming Languages  
-![JavaScript](	https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A80B20&height=120&section=footer"/>
+<h2>Contact Me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernando-antonio-16487427b/)
