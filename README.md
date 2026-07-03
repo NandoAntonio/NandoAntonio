@@ -14,7 +14,7 @@ NandoAntonio's GitHub
   <a href="https://github.com/NandoAntonio"> <img src="https://streak-stats.demolab.com/?user=NandoAntonio&theme=dark" alt="GitHub Streak"/></a>
 </div>
 
---------------------------------------------
+---
 
 <div> <!--Div Sobre mim-->
 
@@ -24,13 +24,13 @@ NandoAntonio's GitHub
 - 🚀 My main goal is to become a FullStack developer and data analyst <br>
 - ✨ I always try to be a polite and respectful person, and I love interacting with new people and sharing my story
 
---------------------------------------------
+---
 
 ## 💻 TECHNOLOGIES:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github" alt="Dev-icons">
 
---------------------------------------------
+---
 
 ### 🏫 EDUCATION:
 > **UNIVERSIDADE ESTADUAL DO ESTADO DE SÃO PAULO** <br>
@@ -46,6 +46,8 @@ Technician Degree in Business Human Resources <br>
 Graduation Year: 2021
 
 </div>
+
+---
 
 <h2>Contact Me</h2>
 
