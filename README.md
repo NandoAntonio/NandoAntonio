@@ -49,6 +49,6 @@ Graduation Year: 2021
 
 ---
 
-<h2>Contact Me</h2>
+## 📱 CONTACT ME:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernando-antonio-16487427b/)
